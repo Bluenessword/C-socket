@@ -1,0 +1,9 @@
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\lqwvje\Desktop\socketDemo\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
